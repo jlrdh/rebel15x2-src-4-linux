@@ -1,5 +1,5 @@
 # REBEL 15x2 source code for Linux
-Ed Schroeder's REBEL 15x2 source code that compiles on linux
+Ed Schroder's REBEL 15x2 source code that compiles on linux
 
 # Prerequisites
 1. A processor that supports the AVX2 instruction set
@@ -22,7 +22,7 @@ Ed Schroeder's REBEL 15x2 source code that compiles on linux
    `./rebel15x2` will start REBEL 15x2 UCI interface. You can now add it as an engine to your favorite chess GUI
 
 # Credits & Copyrights
-- Ed Schroeder for REBEL 15x2
+- Ed Schroder for REBEL 15x2
 
   Credits (quoting Ed Schroeder's Rebel 15 homepage : http://rebel13.nl/windows/rebel-15.html):
     
