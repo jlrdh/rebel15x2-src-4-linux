@@ -13,7 +13,7 @@ Ed Schroeder's REBEL 15x2 source code that compiles on linux
 # How to build from source
 1. clone this repository onto your local machine
 
-2. open a terminal and cd to the directory of the cloned repository
+2. open a terminal and cd to the 'src' directory of the cloned repository
    
    `make`
    
