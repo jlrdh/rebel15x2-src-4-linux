@@ -26,7 +26,7 @@ Ed Schroder's REBEL 15x2 source code that compiles on linux
 # Credits & Copyrights
 - Ed Schroder for REBEL 15x2
 
-  Credits (quoting Ed Schroeder's Rebel 15 homepage : http://rebel13.nl/windows/rebel-15.html):
+  Credits (quoting Ed Schroder's Rebel 15 homepage : http://rebel13.nl/windows/rebel-15.html):
     
   _"Fabien Letouzey, Thomas Gaksch and Jerry Donald Watson for Toga._
     
