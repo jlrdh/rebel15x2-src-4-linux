@@ -15,9 +15,9 @@ Ed Schroeder's REBEL 15x2 source code that compiles on linux
 
 2. open a terminal and cd to the 'src' directory of the cloned repository
    
-   `make`
-   
    `bzip2 -d *.bz2` to decompress the weights of the neural nets
+   
+   `make`
    
    `./rebel15x2` will start REBEL 15x2 UCI interface. You can now add it as an engine to your favorite chess GUI
 
