@@ -19,7 +19,9 @@ Ed Schroder's REBEL 15x2 source code that compiles on linux
    
    `make`
    
-   `./rebel15x2` will start REBEL 15x2 UCI interface. You can now add it as an engine to your favorite chess GUI
+   `./rebel15x2` will start REBEL 15x2 UCI interface in the terminal.
+   
+   You can now quit the engine and terminal and add the executable rebel15x2 as an engine to your favorite chess GUI.
 
 # Credits & Copyrights
 - Ed Schroder for REBEL 15x2
